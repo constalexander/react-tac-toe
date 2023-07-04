@@ -14,6 +14,8 @@ npx nano-react-app tictactoe
 [![Nano React App](https://img.shields.io/badge/Nano_React_App-0.1-gray?style=plastic)](https://github.com/adrianmcli/nano-react-app)
 [![Parcel](https://img.shields.io/badge/Parcel-2-gray?style=plastic)]()
 
+## See it live
+- [react-tactoe.surge.sh](https://react-tactoe.surge.sh)
 
 ## Getting Started
 
